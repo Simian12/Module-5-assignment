@@ -1,4 +1,4 @@
-had trouble pushing my my file with git so please ignore the folder. My final assignment is called pymaceuticals_Assignment
+had trouble pushing my file with git so please ignore the folder. My final assignment is called pymaceuticals_Assignment
 Source for Helping find solutions includd 
 Google (general questions) 
 Youtube( help with plotting pandas functions) 
